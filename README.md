@@ -1,6 +1,6 @@
 #Olá ! Me chamo Gustavo ! este é meu Github 👇
 
-. Esta é minha conta de escolar, e por aqui compartilharei meus projetos...
+. Esta é minha conta escolar, e por aqui compartilharei meus projetos...
 
 <div align="column">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gust4vo2B&show_icons=true&theme=shadow_red"/>
