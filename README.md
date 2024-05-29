@@ -1,4 +1,4 @@
-#Olá ! Me chamo Gustavo ! este é meu Github 👇
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo%2C+Bem+vindo+ao+meu+Github!!" alt="Typing SVG" /></a>
 
 . Esta é minha conta escolar, e por aqui compartilharei meus projetos...
 
